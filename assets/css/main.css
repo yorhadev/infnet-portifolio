@@ -78,7 +78,7 @@ meter::-moz-meter-bar {
     width: 100%;
     height: 100%;
     opacity: 0.15;
-    background-image: url("/assets/images/panel-1.jpg");
+    background-image: url("../images/panel-1.jpg");
 }
 
 .app-section[data-panel="2"]::before {
@@ -89,7 +89,7 @@ meter::-moz-meter-bar {
     width: 100%;
     height: 100%;
     opacity: 0.15;
-    background-image: url("/assets/images/panel-2.jpg");
+    background-image: url("../images/panel-2.jpg");
 }
 
 .app-section[data-panel="3"]::before {
@@ -100,7 +100,7 @@ meter::-moz-meter-bar {
     width: 100%;
     height: 100%;
     opacity: 0.15;
-    background-image: url("/assets/images/panel-3.jpg");
+    background-image: url("../images/panel-3.jpg");
 }
 
 .app-container {
