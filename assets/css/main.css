@@ -171,7 +171,7 @@ meter::-moz-meter-bar {
 .app-hero-img {
     height: 25rem;
     width: 25rem;
-    background-image: url("/assets/images/hero.jpg");
+    background-image: url("../../assets/images/hero.jpg");
     background-size: cover;
     border-radius: 26% 74% 58% 42% / 24% 33% 67% 76%;
 }
